@@ -22,7 +22,7 @@ python3 WikiExtractor.py --help
 
 ## Merge to single file
 ```bash
-cat text/AA/wiki_* > wiki_AA.txt
+cat text/AA/wiki_*.txt > wiki_AA.txt
 ```
 
 ## Citation
