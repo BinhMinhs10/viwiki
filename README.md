@@ -27,6 +27,7 @@ cat text/AA/wiki_*.txt > wiki_AA.txt
 
 ## Citation
 
+~~~
 @misc{Wikiextractor2015,
   author = {Giusepppe Attardi},
   title = {WikiExtractor},
@@ -35,3 +36,4 @@ cat text/AA/wiki_*.txt > wiki_AA.txt
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/attardi/wikiextractor}}
 }
+~~~
